@@ -40,14 +40,14 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Hello.</h2>
+			<h2>Hello Deployment Stage.</h2>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Hello 2019</p>
+		<p>&copy; Hello Deployment Stage 2019</p>
 	</footer>
 </div>
 
