@@ -47,6 +47,8 @@
 
 	<hr>
 	<footer>
+<p>&copy; Welcome to my Deployment Stage 2019</p>
+        </footer>
 </div>
 
 <spring:url value="/resources/core/css/hello.js" var="coreJs" />
