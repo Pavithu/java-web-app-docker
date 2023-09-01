@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Deployment Stage.</h2>
+			<h2> Welcome To Deployment Stage.</h2>
 		</div>	
 	</div>
 
