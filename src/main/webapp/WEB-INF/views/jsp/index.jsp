@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2> Welcome To Sample Application.</h2>
+			<h2>Welcome To Sample Application.</h2>
 		</div>	
 	</div>
 
