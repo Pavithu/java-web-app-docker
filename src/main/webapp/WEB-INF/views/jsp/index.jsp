@@ -40,14 +40,14 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome to my Application.</h2>
+			<h2>Hello God.</h2>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Welcome to my Application 2019</p>
+		<p>&copy; Hello God 2019</p>
 	</footer>
 </div>
 
