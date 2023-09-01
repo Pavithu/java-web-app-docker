@@ -40,14 +40,14 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2> Welcome To Deployment Stage.</h2>
+			<h2> Welcome To Sample Application.</h2>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Welcome To Deployment Stage 2019</p>
+		<p>&copy; Welcome To Sample Application 2019</p>
 	</footer>
 </div>
 
