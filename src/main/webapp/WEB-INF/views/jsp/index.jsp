@@ -47,7 +47,7 @@
 
 	<hr>
 	<footer>
-<p>&copy; Welcome to my Deployment Stage 2019</p>
+<p>&copy; Welcome to my Deployment Stage</p>
         </footer>
 </div>
 
